@@ -116,12 +116,20 @@ RedPajama (Common Crawl and friends), scanned for PII before publishing.
 
 ## Constraints
 
-- No local GPU, no MPS. Hosted inference only (revisit if Colab is acceptable).
+- Runner: local GPU (Windows box, RTX 3060, Ollama / llama.cpp). Hosted inference is
+  the fallback, not the plan. Run `python scripts/preflight.py` on the runner first;
+  it live-checks VRAM, Ollama logprob support, base-model tags, and the Dolma index.
 - Open models only. No Claude/GPT numbers, so claims are about open models, not "LLMs."
-- Base-vs-instruct requires a provider serving raw base weights. OpenRouter does **not**
-  (verified 2026-08-09: all Llama 3.x entries are instruct). Replicate does.
+- Base weights: the Ollama registry serves `llama3`/`llama3.1` `-text` (base) tags
+  (verified 2026-08-10 via preflight). OpenRouter does **not** serve base Llama
+  (verified 2026-08-09). Base OLMo 2 has no obvious Ollama tag; fall back to a GGUF
+  from HF served by llama.cpp if the base-vs-instruct comparison uses OLMo.
 
 ## Tooling verified working
 
 - **infini-gram** — `POST https://api.infini-gram.io/`, index `v4_rpj_llama_s4`,
   `query_type: count`. No auth, ~40ms. Confirmed live.
+- **infini-gram Dolma index** — `v4_dolma-v1_7_llama` exists (verified 2026-08-10:
+  count("Bob's your uncle") = 16,301). Dolma is OLMo's training corpus, so re-counting
+  against it makes the frequency-accuracy regression corpus-exact instead of
+  by-assumption (RedPajama approximates Llama 1's corpus, no current model's).
