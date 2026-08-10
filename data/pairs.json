@@ -1,0 +1,380 @@
+[
+  {
+    "british": {
+      "idiom": "a curate's egg",
+      "variety": "british",
+      "raw": 1914,
+      "rate": 1.0,
+      "adj": 1914.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "your John Hancock",
+      "variety": "american",
+      "raw": 2808,
+      "rate": 1.0,
+      "adj": 2808.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "gone pear-shaped",
+      "variety": "british",
+      "raw": 3274,
+      "rate": 1.0,
+      "adj": 3274.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "throw under the bus",
+      "variety": "american",
+      "raw": 4439,
+      "rate": 1.0,
+      "adj": 4439.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "mad as a box of frogs",
+      "variety": "british",
+      "raw": 3737,
+      "rate": 1.0,
+      "adj": 3737.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "call an audible",
+      "variety": "american",
+      "raw": 5395,
+      "rate": 0.8333333333333334,
+      "adj": 4495.833333333334,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "bang out of order",
+      "variety": "british",
+      "raw": 3866,
+      "rate": 1.0,
+      "adj": 3866.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "bought the farm",
+      "variety": "american",
+      "raw": 27770,
+      "rate": 0.16666666666666666,
+      "adj": 4628.333333333333,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "take the biscuit",
+      "variety": "british",
+      "raw": 3905,
+      "rate": 1.0,
+      "adj": 3905.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "bring your A game",
+      "variety": "american",
+      "raw": 5753,
+      "rate": 1.0,
+      "adj": 5753.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "donkey's years",
+      "variety": "british",
+      "raw": 4445,
+      "rate": 1.0,
+      "adj": 4445.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "close but no cigar",
+      "variety": "american",
+      "raw": 6428,
+      "rate": 1.0,
+      "adj": 6428.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "Bob's your uncle",
+      "variety": "british",
+      "raw": 4870,
+      "rate": 1.0,
+      "adj": 4870.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "the ball is in your court",
+      "variety": "american",
+      "raw": 7283,
+      "rate": 1.0,
+      "adj": 7283.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "put a sock in it",
+      "variety": "british",
+      "raw": 5685,
+      "rate": 1.0,
+      "adj": 5685.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "plead the fifth",
+      "variety": "american",
+      "raw": 11477,
+      "rate": 0.6666666666666666,
+      "adj": 7651.333333333333,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "gone to pot",
+      "variety": "british",
+      "raw": 7648,
+      "rate": 1.0,
+      "adj": 7648.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "take a rain check",
+      "variety": "american",
+      "raw": 8067,
+      "rate": 1.0,
+      "adj": 8067.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "lose the plot",
+      "variety": "british",
+      "raw": 16396,
+      "rate": 0.6666666666666666,
+      "adj": 10930.666666666666,
+      "n": 6
+    },
+    "american": {
+      "idiom": "go postal",
+      "variety": "american",
+      "raw": 10268,
+      "rate": 1.0,
+      "adj": 10268.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "taking the mickey",
+      "variety": "british",
+      "raw": 12802,
+      "rate": 1.0,
+      "adj": 12802.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "sell like hotcakes",
+      "variety": "american",
+      "raw": 13806,
+      "rate": 1.0,
+      "adj": 13806.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "chuffed to bits",
+      "variety": "british",
+      "raw": 13717,
+      "rate": 1.0,
+      "adj": 13717.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "ride shotgun",
+      "variety": "american",
+      "raw": 20433,
+      "rate": 0.8333333333333334,
+      "adj": 17027.5,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "throw a spanner in the works",
+      "variety": "british",
+      "raw": 13796,
+      "rate": 1.0,
+      "adj": 13796.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "throw a curveball",
+      "variety": "american",
+      "raw": 10125,
+      "rate": 1.0,
+      "adj": 10125.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "full of beans",
+      "variety": "british",
+      "raw": 20808,
+      "rate": 0.6666666666666666,
+      "adj": 13872.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "jump the shark",
+      "variety": "american",
+      "raw": 17705,
+      "rate": 1.0,
+      "adj": 17705.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "swings and roundabouts",
+      "variety": "british",
+      "raw": 15109,
+      "rate": 1.0,
+      "adj": 15109.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "a ballpark figure",
+      "variety": "american",
+      "raw": 19133,
+      "rate": 1.0,
+      "adj": 19133.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "the bee's knees",
+      "variety": "british",
+      "raw": 15743,
+      "rate": 1.0,
+      "adj": 15743.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "hit the hay",
+      "variety": "american",
+      "raw": 19646,
+      "rate": 1.0,
+      "adj": 19646.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "storm in a teacup",
+      "variety": "british",
+      "raw": 22467,
+      "rate": 1.0,
+      "adj": 22467.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "Monday morning quarterback",
+      "variety": "american",
+      "raw": 24310,
+      "rate": 1.0,
+      "adj": 24310.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "chalk and cheese",
+      "variety": "british",
+      "raw": 32336,
+      "rate": 1.0,
+      "adj": 32336.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "cover all the bases",
+      "variety": "american",
+      "raw": 33961,
+      "rate": 1.0,
+      "adj": 33961.0,
+      "n": 6
+    }
+  },
+  {
+    "british": {
+      "idiom": "a damp squib",
+      "variety": "british",
+      "raw": 36278,
+      "rate": 1.0,
+      "adj": 36278.0,
+      "n": 6
+    },
+    "american": {
+      "idiom": "a Hail Mary",
+      "variety": "american",
+      "raw": 70594,
+      "rate": 0.5,
+      "adj": 35297.0,
+      "n": 8
+    }
+  },
+  {
+    "british": {
+      "idiom": "not my cup of tea",
+      "variety": "british",
+      "raw": 75777,
+      "rate": 1.0,
+      "adj": 75777.0,
+      "n": 8
+    },
+    "american": {
+      "idiom": "jump on the bandwagon",
+      "variety": "american",
+      "raw": 83111,
+      "rate": 1.0,
+      "adj": 83111.0,
+      "n": 8
+    }
+  },
+  {
+    "british": {
+      "idiom": "over the moon",
+      "variety": "british",
+      "raw": 406526,
+      "rate": 0.9,
+      "adj": 365873.4,
+      "n": 10
+    },
+    "american": {
+      "idiom": "back to the drawing board",
+      "variety": "american",
+      "raw": 312322,
+      "rate": 1.0,
+      "adj": 312322.0,
+      "n": 10
+    }
+  }
+]

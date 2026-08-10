@@ -1,0 +1,642 @@
+[
+  {
+    "idiom": "a home run",
+    "variety": "american",
+    "raw": 808609,
+    "rate": 0.3,
+    "adj": 242582.69999999998,
+    "n": 10
+  },
+  {
+    "idiom": "right off the bat",
+    "variety": "american",
+    "raw": 484798,
+    "rate": 1.0,
+    "adj": 484798.0,
+    "n": 10
+  },
+  {
+    "idiom": "over the moon",
+    "variety": "british",
+    "raw": 406526,
+    "rate": 0.9,
+    "adj": 365873.4,
+    "n": 10
+  },
+  {
+    "idiom": "back to the drawing board",
+    "variety": "american",
+    "raw": 312322,
+    "rate": 1.0,
+    "adj": 312322.0,
+    "n": 10
+  },
+  {
+    "idiom": "off base",
+    "variety": "american",
+    "raw": 233517,
+    "rate": 0.6,
+    "adj": 140110.19999999998,
+    "n": 10
+  },
+  {
+    "idiom": "the bases loaded",
+    "variety": "american",
+    "raw": 196488,
+    "rate": 0.0,
+    "adj": 0.0,
+    "n": 10
+  },
+  {
+    "idiom": "step up to the plate",
+    "variety": "american",
+    "raw": 188649,
+    "rate": 1.0,
+    "adj": 188649.0,
+    "n": 10
+  },
+  {
+    "idiom": "my two cents",
+    "variety": "american",
+    "raw": 181886,
+    "rate": 1.0,
+    "adj": 181886.0,
+    "n": 10
+  },
+  {
+    "idiom": "a slam dunk",
+    "variety": "american",
+    "raw": 162714,
+    "rate": 0.875,
+    "adj": 142374.75,
+    "n": 8
+  },
+  {
+    "idiom": "out of left field",
+    "variety": "american",
+    "raw": 135839,
+    "rate": 1.0,
+    "adj": 135839.0,
+    "n": 8
+  },
+  {
+    "idiom": "a dime a dozen",
+    "variety": "american",
+    "raw": 131085,
+    "rate": 1.0,
+    "adj": 131085.0,
+    "n": 8
+  },
+  {
+    "idiom": "touch base",
+    "variety": "american",
+    "raw": 126206,
+    "rate": 1.0,
+    "adj": 126206.0,
+    "n": 8
+  },
+  {
+    "idiom": "on your bike",
+    "variety": "british",
+    "raw": 112797,
+    "rate": 0.0,
+    "adj": 0.0,
+    "n": 8
+  },
+  {
+    "idiom": "jump on the bandwagon",
+    "variety": "american",
+    "raw": 83111,
+    "rate": 1.0,
+    "adj": 83111.0,
+    "n": 8
+  },
+  {
+    "idiom": "drop the ball",
+    "variety": "american",
+    "raw": 79138,
+    "rate": 0.625,
+    "adj": 49461.25,
+    "n": 8
+  },
+  {
+    "idiom": "not my cup of tea",
+    "variety": "british",
+    "raw": 75777,
+    "rate": 1.0,
+    "adj": 75777.0,
+    "n": 8
+  },
+  {
+    "idiom": "a Hail Mary",
+    "variety": "american",
+    "raw": 70594,
+    "rate": 0.5,
+    "adj": 35297.0,
+    "n": 8
+  },
+  {
+    "idiom": "in the same ballpark",
+    "variety": "american",
+    "raw": 53531,
+    "rate": 1.0,
+    "adj": 53531.0,
+    "n": 8
+  },
+  {
+    "idiom": "pass the buck",
+    "variety": "american",
+    "raw": 51400,
+    "rate": 1.0,
+    "adj": 51400.0,
+    "n": 8
+  },
+  {
+    "idiom": "blow off steam",
+    "variety": "american",
+    "raw": 49110,
+    "rate": 1.0,
+    "adj": 49110.0,
+    "n": 8
+  },
+  {
+    "idiom": "hit it out of the park",
+    "variety": "american",
+    "raw": 46339,
+    "rate": 0.875,
+    "adj": 40546.625,
+    "n": 8
+  },
+  {
+    "idiom": "the whole nine yards",
+    "variety": "american",
+    "raw": 44822,
+    "rate": 1.0,
+    "adj": 44822.0,
+    "n": 8
+  },
+  {
+    "idiom": "hard cheese",
+    "variety": "british",
+    "raw": 40570,
+    "rate": 0.0,
+    "adj": 0.0,
+    "n": 6
+  },
+  {
+    "idiom": "a damp squib",
+    "variety": "british",
+    "raw": 36278,
+    "rate": 1.0,
+    "adj": 36278.0,
+    "n": 6
+  },
+  {
+    "idiom": "behind the eight ball",
+    "variety": "american",
+    "raw": 34361,
+    "rate": 1.0,
+    "adj": 34361.0,
+    "n": 6
+  },
+  {
+    "idiom": "cover all the bases",
+    "variety": "american",
+    "raw": 33961,
+    "rate": 1.0,
+    "adj": 33961.0,
+    "n": 6
+  },
+  {
+    "idiom": "chalk and cheese",
+    "variety": "british",
+    "raw": 32336,
+    "rate": 1.0,
+    "adj": 32336.0,
+    "n": 6
+  },
+  {
+    "idiom": "round the bend",
+    "variety": "british",
+    "raw": 32262,
+    "rate": 0.5,
+    "adj": 16131.0,
+    "n": 6
+  },
+  {
+    "idiom": "shoot the breeze",
+    "variety": "american",
+    "raw": 28017,
+    "rate": 1.0,
+    "adj": 28017.0,
+    "n": 6
+  },
+  {
+    "idiom": "bought the farm",
+    "variety": "american",
+    "raw": 27770,
+    "rate": 0.16666666666666666,
+    "adj": 4628.333333333333,
+    "n": 6
+  },
+  {
+    "idiom": "run interference",
+    "variety": "american",
+    "raw": 27205,
+    "rate": 1.0,
+    "adj": 27205.0,
+    "n": 6
+  },
+  {
+    "idiom": "spend a penny",
+    "variety": "british",
+    "raw": 24350,
+    "rate": 0.0,
+    "adj": 0.0,
+    "n": 6
+  },
+  {
+    "idiom": "Monday morning quarterback",
+    "variety": "american",
+    "raw": 24310,
+    "rate": 1.0,
+    "adj": 24310.0,
+    "n": 6
+  },
+  {
+    "idiom": "storm in a teacup",
+    "variety": "british",
+    "raw": 22467,
+    "rate": 1.0,
+    "adj": 22467.0,
+    "n": 6
+  },
+  {
+    "idiom": "full of beans",
+    "variety": "british",
+    "raw": 20808,
+    "rate": 0.6666666666666666,
+    "adj": 13872.0,
+    "n": 6
+  },
+  {
+    "idiom": "ride shotgun",
+    "variety": "american",
+    "raw": 20433,
+    "rate": 0.8333333333333334,
+    "adj": 17027.5,
+    "n": 6
+  },
+  {
+    "idiom": "hit the hay",
+    "variety": "american",
+    "raw": 19646,
+    "rate": 1.0,
+    "adj": 19646.0,
+    "n": 6
+  },
+  {
+    "idiom": "a ballpark figure",
+    "variety": "american",
+    "raw": 19133,
+    "rate": 1.0,
+    "adj": 19133.0,
+    "n": 6
+  },
+  {
+    "idiom": "jump the shark",
+    "variety": "american",
+    "raw": 17705,
+    "rate": 1.0,
+    "adj": 17705.0,
+    "n": 6
+  },
+  {
+    "idiom": "lose the plot",
+    "variety": "british",
+    "raw": 16396,
+    "rate": 0.6666666666666666,
+    "adj": 10930.666666666666,
+    "n": 6
+  },
+  {
+    "idiom": "the bee's knees",
+    "variety": "british",
+    "raw": 15743,
+    "rate": 1.0,
+    "adj": 15743.0,
+    "n": 6
+  },
+  {
+    "idiom": "swings and roundabouts",
+    "variety": "british",
+    "raw": 15109,
+    "rate": 1.0,
+    "adj": 15109.0,
+    "n": 6
+  },
+  {
+    "idiom": "sell like hotcakes",
+    "variety": "american",
+    "raw": 13806,
+    "rate": 1.0,
+    "adj": 13806.0,
+    "n": 6
+  },
+  {
+    "idiom": "throw a spanner in the works",
+    "variety": "british",
+    "raw": 13796,
+    "rate": 1.0,
+    "adj": 13796.0,
+    "n": 6
+  },
+  {
+    "idiom": "chuffed to bits",
+    "variety": "british",
+    "raw": 13717,
+    "rate": 1.0,
+    "adj": 13717.0,
+    "n": 6
+  },
+  {
+    "idiom": "taking the mickey",
+    "variety": "british",
+    "raw": 12802,
+    "rate": 1.0,
+    "adj": 12802.0,
+    "n": 6
+  },
+  {
+    "idiom": "plead the fifth",
+    "variety": "american",
+    "raw": 11477,
+    "rate": 0.6666666666666666,
+    "adj": 7651.333333333333,
+    "n": 6
+  },
+  {
+    "idiom": "go postal",
+    "variety": "american",
+    "raw": 10268,
+    "rate": 1.0,
+    "adj": 10268.0,
+    "n": 6
+  },
+  {
+    "idiom": "throw a curveball",
+    "variety": "american",
+    "raw": 10125,
+    "rate": 1.0,
+    "adj": 10125.0,
+    "n": 6
+  },
+  {
+    "idiom": "take a rain check",
+    "variety": "american",
+    "raw": 8067,
+    "rate": 1.0,
+    "adj": 8067.0,
+    "n": 6
+  },
+  {
+    "idiom": "gone to pot",
+    "variety": "british",
+    "raw": 7648,
+    "rate": 1.0,
+    "adj": 7648.0,
+    "n": 6
+  },
+  {
+    "idiom": "the ball is in your court",
+    "variety": "american",
+    "raw": 7283,
+    "rate": 1.0,
+    "adj": 7283.0,
+    "n": 6
+  },
+  {
+    "idiom": "close but no cigar",
+    "variety": "american",
+    "raw": 6428,
+    "rate": 1.0,
+    "adj": 6428.0,
+    "n": 6
+  },
+  {
+    "idiom": "bring your A game",
+    "variety": "american",
+    "raw": 5753,
+    "rate": 1.0,
+    "adj": 5753.0,
+    "n": 6
+  },
+  {
+    "idiom": "put a sock in it",
+    "variety": "british",
+    "raw": 5685,
+    "rate": 1.0,
+    "adj": 5685.0,
+    "n": 6
+  },
+  {
+    "idiom": "call an audible",
+    "variety": "american",
+    "raw": 5395,
+    "rate": 0.8333333333333334,
+    "adj": 4495.833333333334,
+    "n": 6
+  },
+  {
+    "idiom": "Bob's your uncle",
+    "variety": "british",
+    "raw": 4870,
+    "rate": 1.0,
+    "adj": 4870.0,
+    "n": 6
+  },
+  {
+    "idiom": "cock a snook",
+    "variety": "british",
+    "raw": 4659,
+    "rate": 1.0,
+    "adj": 4659.0,
+    "n": 6
+  },
+  {
+    "idiom": "donkey's years",
+    "variety": "british",
+    "raw": 4445,
+    "rate": 1.0,
+    "adj": 4445.0,
+    "n": 6
+  },
+  {
+    "idiom": "throw under the bus",
+    "variety": "american",
+    "raw": 4439,
+    "rate": 1.0,
+    "adj": 4439.0,
+    "n": 6
+  },
+  {
+    "idiom": "take the biscuit",
+    "variety": "british",
+    "raw": 3905,
+    "rate": 1.0,
+    "adj": 3905.0,
+    "n": 6
+  },
+  {
+    "idiom": "bang out of order",
+    "variety": "british",
+    "raw": 3866,
+    "rate": 1.0,
+    "adj": 3866.0,
+    "n": 6
+  },
+  {
+    "idiom": "mad as a box of frogs",
+    "variety": "british",
+    "raw": 3737,
+    "rate": 1.0,
+    "adj": 3737.0,
+    "n": 6
+  },
+  {
+    "idiom": "gone pear-shaped",
+    "variety": "british",
+    "raw": 3274,
+    "rate": 1.0,
+    "adj": 3274.0,
+    "n": 6
+  },
+  {
+    "idiom": "your John Hancock",
+    "variety": "american",
+    "raw": 2808,
+    "rate": 1.0,
+    "adj": 2808.0,
+    "n": 6
+  },
+  {
+    "idiom": "plain as a pikestaff",
+    "variety": "british",
+    "raw": 2668,
+    "rate": 1.0,
+    "adj": 2668.0,
+    "n": 6
+  },
+  {
+    "idiom": "a load of codswallop",
+    "variety": "british",
+    "raw": 2661,
+    "rate": 1.0,
+    "adj": 2661.0,
+    "n": 6
+  },
+  {
+    "idiom": "a dog's dinner",
+    "variety": "british",
+    "raw": 2538,
+    "rate": 1.0,
+    "adj": 2538.0,
+    "n": 6
+  },
+  {
+    "idiom": "all mouth and no trousers",
+    "variety": "british",
+    "raw": 1945,
+    "rate": 1.0,
+    "adj": 1945.0,
+    "n": 6
+  },
+  {
+    "idiom": "a curate's egg",
+    "variety": "british",
+    "raw": 1914,
+    "rate": 1.0,
+    "adj": 1914.0,
+    "n": 6
+  },
+  {
+    "idiom": "see a man about a dog",
+    "variety": "british",
+    "raw": 1576,
+    "rate": 0.8333333333333334,
+    "adj": 1313.3333333333335,
+    "n": 6
+  },
+  {
+    "idiom": "a turn-up for the books",
+    "variety": "british",
+    "raw": 1556,
+    "rate": 1.0,
+    "adj": 1556.0,
+    "n": 6
+  },
+  {
+    "idiom": "throw a wobbly",
+    "variety": "british",
+    "raw": 1151,
+    "rate": 1.0,
+    "adj": 1151.0,
+    "n": 6
+  },
+  {
+    "idiom": "sod's law",
+    "variety": "british",
+    "raw": 1074,
+    "rate": 1.0,
+    "adj": 1074.0,
+    "n": 6
+  },
+  {
+    "idiom": "the dog's bollocks",
+    "variety": "british",
+    "raw": 947,
+    "rate": 1.0,
+    "adj": 947.0,
+    "n": 6
+  },
+  {
+    "idiom": "know your onions",
+    "variety": "british",
+    "raw": 922,
+    "rate": 1.0,
+    "adj": 922.0,
+    "n": 6
+  },
+  {
+    "idiom": "off your trolley",
+    "variety": "british",
+    "raw": 634,
+    "rate": 0.6666666666666666,
+    "adj": 422.66666666666663,
+    "n": 6
+  },
+  {
+    "idiom": "a nosy parker",
+    "variety": "british",
+    "raw": 555,
+    "rate": 1.0,
+    "adj": 555.0,
+    "n": 6
+  },
+  {
+    "idiom": "pop your clogs",
+    "variety": "british",
+    "raw": 525,
+    "rate": 1.0,
+    "adj": 525.0,
+    "n": 6
+  },
+  {
+    "idiom": "a right pig's ear",
+    "variety": "british",
+    "raw": 217,
+    "rate": 1.0,
+    "adj": 217.0,
+    "n": 6
+  }
+]

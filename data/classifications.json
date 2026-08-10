@@ -1,0 +1,485 @@
+{
+  "note": "Hand-classified by Claude, in-context, batch by batch. idiomatic = count of samples where the phrase carries figurative meaning; n = samples judged.",
+  "items": {
+    "a home run": {
+      "variety": "american",
+      "idiomatic": 3,
+      "n": 10,
+      "comment": "mostly literal baseball box-scores"
+    },
+    "right off the bat": {
+      "variety": "american",
+      "idiomatic": 10,
+      "n": 10,
+      "comment": "fully lexicalized"
+    },
+    "over the moon": {
+      "variety": "british",
+      "idiomatic": 9,
+      "n": 10,
+      "comment": "one literal: a string-splitting code example"
+    },
+    "back to the drawing board": {
+      "variety": "american",
+      "idiomatic": 10,
+      "n": 10,
+      "comment": ""
+    },
+    "off base": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 10,
+      "comment": "literal uses are military-base, not baseball"
+    },
+    "the bases loaded": {
+      "variety": "american",
+      "idiomatic": 0,
+      "n": 10,
+      "comment": "all literal baseball"
+    },
+    "step up to the plate": {
+      "variety": "american",
+      "idiomatic": 10,
+      "n": 10,
+      "comment": ""
+    },
+    "my two cents": {
+      "variety": "american",
+      "idiomatic": 10,
+      "n": 10,
+      "comment": ""
+    },
+    "a slam dunk": {
+      "variety": "american",
+      "idiomatic": 7,
+      "n": 8,
+      "comment": "one literal basketball"
+    },
+    "out of left field": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "a dime a dozen": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "touch base": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "on your bike": {
+      "variety": "british",
+      "idiomatic": 0,
+      "n": 8,
+      "comment": "ZERO: all literal cycling. UK idiom sense ('go away') absent"
+    },
+    "jump on the bandwagon": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "drop the ball": {
+      "variety": "american",
+      "idiomatic": 5,
+      "n": 8,
+      "comment": "2 literal sport; 1 FALSE MATCH 'drop the ballot' (substring artifact)"
+    },
+    "not my cup of tea": {
+      "variety": "british",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "a Hail Mary": {
+      "variety": "american",
+      "idiomatic": 4,
+      "n": 8,
+      "comment": "literal = football pass + actual prayer"
+    },
+    "in the same ballpark": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "pass the buck": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "blow off steam": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "hit it out of the park": {
+      "variety": "american",
+      "idiomatic": 7,
+      "n": 8,
+      "comment": "one literal baseball"
+    },
+    "the whole nine yards": {
+      "variety": "american",
+      "idiomatic": 8,
+      "n": 8,
+      "comment": ""
+    },
+    "hard cheese": {
+      "variety": "british",
+      "idiomatic": 0,
+      "n": 6,
+      "comment": "ZERO: all literal dairy"
+    },
+    "a damp squib": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "behind the eight ball": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": "incl. one dictionary-definition page"
+    },
+    "cover all the bases": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "chalk and cheese": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "round the bend": {
+      "variety": "british",
+      "idiomatic": 3,
+      "n": 6,
+      "comment": "literal = physically rounding a bend"
+    },
+    "shoot the breeze": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "bought the farm": {
+      "variety": "american",
+      "idiomatic": 1,
+      "n": 6,
+      "comment": "mostly literal farm purchases; 'died' sense rare"
+    },
+    "run interference": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "spend a penny": {
+      "variety": "british",
+      "idiomatic": 0,
+      "n": 6,
+      "comment": "ZERO: all literal money. UK toilet sense absent"
+    },
+    "Monday morning quarterback": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "storm in a teacup": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "full of beans": {
+      "variety": "british",
+      "idiomatic": 4,
+      "n": 6,
+      "comment": "literal = boxcars/coffee beans"
+    },
+    "ride shotgun": {
+      "variety": "american",
+      "idiomatic": 5,
+      "n": 6,
+      "comment": "one literal historical shotgun guard"
+    },
+    "hit the hay": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "a ballpark figure": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "jump the shark": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "lose the plot": {
+      "variety": "british",
+      "idiomatic": 4,
+      "n": 6,
+      "comment": "literal = narrative plot of a film/book"
+    },
+    "the bee's knees": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "swings and roundabouts": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "sell like hotcakes": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "throw a spanner in the works": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "chuffed to bits": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "taking the mickey": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "plead the fifth": {
+      "variety": "american",
+      "idiomatic": 4,
+      "n": 6,
+      "comment": "literal = actual courtroom/deposition invocation"
+    },
+    "go postal": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "throw a curveball": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "take a rain check": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "gone to pot": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "the ball is in your court": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "close but no cigar": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": "incl. dictionary/idiom-list pages"
+    },
+    "bring your A game": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "put a sock in it": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "call an audible": {
+      "variety": "american",
+      "idiomatic": 5,
+      "n": 6,
+      "comment": "one literal on-field audible"
+    },
+    "Bob's your uncle": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": "HEADLINE ITEM: 100% idiomatic despite low raw count"
+    },
+    "cock a snook": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "donkey's years": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "throw under the bus": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "take the biscuit": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "bang out of order": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "mad as a box of frogs": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "gone pear-shaped": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "your John Hancock": {
+      "variety": "american",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "plain as a pikestaff": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "a load of codswallop": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "a dog's dinner": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": "3 of 6 are dictionary/idiom-list pages, not natural use"
+    },
+    "all mouth and no trousers": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "a curate's egg": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "see a man about a dog": {
+      "variety": "british",
+      "idiomatic": 5,
+      "n": 6,
+      "comment": "one literal dog purchase, punning on the idiom"
+    },
+    "a turn-up for the books": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": "one phrase-list page"
+    },
+    "throw a wobbly": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "sod's law": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "the dog's bollocks": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "know your onions": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "off your trolley": {
+      "variety": "british",
+      "idiomatic": 4,
+      "n": 6,
+      "comment": "literal = golf trolley"
+    },
+    "a nosy parker": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "pop your clogs": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    },
+    "a right pig's ear": {
+      "variety": "british",
+      "idiomatic": 6,
+      "n": 6,
+      "comment": ""
+    }
+  }
+}

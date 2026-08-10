@@ -1,0 +1,1014 @@
+{
+  "index": "v4_rpj_llama_s4",
+  "items": [
+    {
+      "idiom": "a home run",
+      "variety": "american",
+      "count": 808609,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581a",
+        "\u2581home",
+        "\u2581run"
+      ]
+    },
+    {
+      "idiom": "right off the bat",
+      "variety": "american",
+      "count": 484798,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581right",
+        "\u2581off",
+        "\u2581the",
+        "\u2581bat"
+      ]
+    },
+    {
+      "idiom": "over the moon",
+      "variety": "british",
+      "count": 406526,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581over",
+        "\u2581the",
+        "\u2581moon"
+      ]
+    },
+    {
+      "idiom": "back to the drawing board",
+      "variety": "american",
+      "count": 312322,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581back",
+        "\u2581to",
+        "\u2581the",
+        "\u2581drawing",
+        "\u2581board"
+      ]
+    },
+    {
+      "idiom": "off base",
+      "variety": "american",
+      "count": 233517,
+      "n_tokens": 2,
+      "tokens": [
+        "\u2581off",
+        "\u2581base"
+      ]
+    },
+    {
+      "idiom": "the bases loaded",
+      "variety": "american",
+      "count": 196488,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581the",
+        "\u2581bases",
+        "\u2581loaded"
+      ]
+    },
+    {
+      "idiom": "step up to the plate",
+      "variety": "american",
+      "count": 188649,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581step",
+        "\u2581up",
+        "\u2581to",
+        "\u2581the",
+        "\u2581plate"
+      ]
+    },
+    {
+      "idiom": "my two cents",
+      "variety": "american",
+      "count": 181886,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581my",
+        "\u2581two",
+        "\u2581c",
+        "ents"
+      ]
+    },
+    {
+      "idiom": "a slam dunk",
+      "variety": "american",
+      "count": 162714,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581a",
+        "\u2581sl",
+        "am",
+        "\u2581d",
+        "unk"
+      ]
+    },
+    {
+      "idiom": "out of left field",
+      "variety": "american",
+      "count": 135839,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581out",
+        "\u2581of",
+        "\u2581left",
+        "\u2581field"
+      ]
+    },
+    {
+      "idiom": "a dime a dozen",
+      "variety": "american",
+      "count": 131085,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581a",
+        "\u2581d",
+        "ime",
+        "\u2581a",
+        "\u2581dozen"
+      ]
+    },
+    {
+      "idiom": "touch base",
+      "variety": "american",
+      "count": 126206,
+      "n_tokens": 2,
+      "tokens": [
+        "\u2581touch",
+        "\u2581base"
+      ]
+    },
+    {
+      "idiom": "on your bike",
+      "variety": "british",
+      "count": 112797,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581on",
+        "\u2581your",
+        "\u2581bi",
+        "ke"
+      ]
+    },
+    {
+      "idiom": "jump on the bandwagon",
+      "variety": "american",
+      "count": 83111,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581jump",
+        "\u2581on",
+        "\u2581the",
+        "\u2581band",
+        "w",
+        "agon"
+      ]
+    },
+    {
+      "idiom": "drop the ball",
+      "variety": "american",
+      "count": 79138,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581drop",
+        "\u2581the",
+        "\u2581ball"
+      ]
+    },
+    {
+      "idiom": "not my cup of tea",
+      "variety": "british",
+      "count": 75777,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581not",
+        "\u2581my",
+        "\u2581cup",
+        "\u2581of",
+        "\u2581tea"
+      ]
+    },
+    {
+      "idiom": "a Hail Mary",
+      "variety": "american",
+      "count": 70594,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581a",
+        "\u2581H",
+        "ail",
+        "\u2581Mary"
+      ]
+    },
+    {
+      "idiom": "in the same ballpark",
+      "variety": "american",
+      "count": 53531,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581in",
+        "\u2581the",
+        "\u2581same",
+        "\u2581ball",
+        "park"
+      ]
+    },
+    {
+      "idiom": "pass the buck",
+      "variety": "american",
+      "count": 51400,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581pass",
+        "\u2581the",
+        "\u2581bu",
+        "ck"
+      ]
+    },
+    {
+      "idiom": "blow off steam",
+      "variety": "american",
+      "count": 49110,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581blow",
+        "\u2581off",
+        "\u2581steam"
+      ]
+    },
+    {
+      "idiom": "hit it out of the park",
+      "variety": "american",
+      "count": 46339,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581hit",
+        "\u2581it",
+        "\u2581out",
+        "\u2581of",
+        "\u2581the",
+        "\u2581park"
+      ]
+    },
+    {
+      "idiom": "the whole nine yards",
+      "variety": "american",
+      "count": 44822,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581the",
+        "\u2581whole",
+        "\u2581nine",
+        "\u2581yards"
+      ]
+    },
+    {
+      "idiom": "hard cheese",
+      "variety": "british",
+      "count": 40570,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581hard",
+        "\u2581che",
+        "ese"
+      ]
+    },
+    {
+      "idiom": "a damp squib",
+      "variety": "british",
+      "count": 36278,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581a",
+        "\u2581d",
+        "amp",
+        "\u2581squ",
+        "ib"
+      ]
+    },
+    {
+      "idiom": "behind the eight ball",
+      "variety": "american",
+      "count": 34361,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581behind",
+        "\u2581the",
+        "\u2581eight",
+        "\u2581ball"
+      ]
+    },
+    {
+      "idiom": "cover all the bases",
+      "variety": "american",
+      "count": 33961,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581cover",
+        "\u2581all",
+        "\u2581the",
+        "\u2581bases"
+      ]
+    },
+    {
+      "idiom": "chalk and cheese",
+      "variety": "british",
+      "count": 32336,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581ch",
+        "alk",
+        "\u2581and",
+        "\u2581che",
+        "ese"
+      ]
+    },
+    {
+      "idiom": "round the bend",
+      "variety": "british",
+      "count": 32262,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581round",
+        "\u2581the",
+        "\u2581b",
+        "end"
+      ]
+    },
+    {
+      "idiom": "shoot the breeze",
+      "variety": "american",
+      "count": 28017,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581shoot",
+        "\u2581the",
+        "\u2581b",
+        "ree",
+        "ze"
+      ]
+    },
+    {
+      "idiom": "bought the farm",
+      "variety": "american",
+      "count": 27770,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581bought",
+        "\u2581the",
+        "\u2581farm"
+      ]
+    },
+    {
+      "idiom": "run interference",
+      "variety": "american",
+      "count": 27205,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581run",
+        "\u2581inter",
+        "ference"
+      ]
+    },
+    {
+      "idiom": "spend a penny",
+      "variety": "british",
+      "count": 24350,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581spend",
+        "\u2581a",
+        "\u2581pen",
+        "ny"
+      ]
+    },
+    {
+      "idiom": "Monday morning quarterback",
+      "variety": "american",
+      "count": 24310,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581Monday",
+        "\u2581morning",
+        "\u2581quarter",
+        "back"
+      ]
+    },
+    {
+      "idiom": "storm in a teacup",
+      "variety": "british",
+      "count": 22467,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581storm",
+        "\u2581in",
+        "\u2581a",
+        "\u2581te",
+        "ac",
+        "up"
+      ]
+    },
+    {
+      "idiom": "full of beans",
+      "variety": "british",
+      "count": 20808,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581full",
+        "\u2581of",
+        "\u2581be",
+        "ans"
+      ]
+    },
+    {
+      "idiom": "ride shotgun",
+      "variety": "american",
+      "count": 20433,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581ride",
+        "\u2581shot",
+        "gun"
+      ]
+    },
+    {
+      "idiom": "hit the hay",
+      "variety": "american",
+      "count": 19646,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581hit",
+        "\u2581the",
+        "\u2581hay"
+      ]
+    },
+    {
+      "idiom": "a ballpark figure",
+      "variety": "american",
+      "count": 19133,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581a",
+        "\u2581ball",
+        "park",
+        "\u2581figure"
+      ]
+    },
+    {
+      "idiom": "jump the shark",
+      "variety": "american",
+      "count": 17705,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581jump",
+        "\u2581the",
+        "\u2581sh",
+        "ark"
+      ]
+    },
+    {
+      "idiom": "lose the plot",
+      "variety": "british",
+      "count": 16396,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581lose",
+        "\u2581the",
+        "\u2581plot"
+      ]
+    },
+    {
+      "idiom": "the bee's knees",
+      "variety": "british",
+      "count": 15743,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581the",
+        "\u2581be",
+        "e",
+        "'",
+        "s",
+        "\u2581kne",
+        "es"
+      ]
+    },
+    {
+      "idiom": "swings and roundabouts",
+      "variety": "british",
+      "count": 15109,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581sw",
+        "ings",
+        "\u2581and",
+        "\u2581round",
+        "about",
+        "s"
+      ]
+    },
+    {
+      "idiom": "sell like hotcakes",
+      "variety": "american",
+      "count": 13806,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581sell",
+        "\u2581like",
+        "\u2581hot",
+        "c",
+        "akes"
+      ]
+    },
+    {
+      "idiom": "throw a spanner in the works",
+      "variety": "british",
+      "count": 13796,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581throw",
+        "\u2581a",
+        "\u2581sp",
+        "anner",
+        "\u2581in",
+        "\u2581the",
+        "\u2581works"
+      ]
+    },
+    {
+      "idiom": "chuffed to bits",
+      "variety": "british",
+      "count": 13717,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581ch",
+        "uff",
+        "ed",
+        "\u2581to",
+        "\u2581bits"
+      ]
+    },
+    {
+      "idiom": "taking the mickey",
+      "variety": "british",
+      "count": 12802,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581taking",
+        "\u2581the",
+        "\u2581mic",
+        "key"
+      ]
+    },
+    {
+      "idiom": "plead the fifth",
+      "variety": "american",
+      "count": 11477,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581ple",
+        "ad",
+        "\u2581the",
+        "\u2581fifth"
+      ]
+    },
+    {
+      "idiom": "go postal",
+      "variety": "american",
+      "count": 10268,
+      "n_tokens": 2,
+      "tokens": [
+        "\u2581go",
+        "\u2581postal"
+      ]
+    },
+    {
+      "idiom": "throw a curveball",
+      "variety": "american",
+      "count": 10125,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581throw",
+        "\u2581a",
+        "\u2581curve",
+        "ball"
+      ]
+    },
+    {
+      "idiom": "take a rain check",
+      "variety": "american",
+      "count": 8067,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581take",
+        "\u2581a",
+        "\u2581rain",
+        "\u2581check"
+      ]
+    },
+    {
+      "idiom": "gone to pot",
+      "variety": "british",
+      "count": 7648,
+      "n_tokens": 3,
+      "tokens": [
+        "\u2581gone",
+        "\u2581to",
+        "\u2581pot"
+      ]
+    },
+    {
+      "idiom": "the ball is in your court",
+      "variety": "american",
+      "count": 7283,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581the",
+        "\u2581ball",
+        "\u2581is",
+        "\u2581in",
+        "\u2581your",
+        "\u2581court"
+      ]
+    },
+    {
+      "idiom": "close but no cigar",
+      "variety": "american",
+      "count": 6428,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581close",
+        "\u2581but",
+        "\u2581no",
+        "\u2581cig",
+        "ar"
+      ]
+    },
+    {
+      "idiom": "bring your A game",
+      "variety": "american",
+      "count": 5753,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581bring",
+        "\u2581your",
+        "\u2581A",
+        "\u2581game"
+      ]
+    },
+    {
+      "idiom": "put a sock in it",
+      "variety": "british",
+      "count": 5685,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581put",
+        "\u2581a",
+        "\u2581so",
+        "ck",
+        "\u2581in",
+        "\u2581it"
+      ]
+    },
+    {
+      "idiom": "call an audible",
+      "variety": "american",
+      "count": 5395,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581call",
+        "\u2581an",
+        "\u2581aud",
+        "ible"
+      ]
+    },
+    {
+      "idiom": "Bob's your uncle",
+      "variety": "british",
+      "count": 4870,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581Bob",
+        "'",
+        "s",
+        "\u2581your",
+        "\u2581uncle"
+      ]
+    },
+    {
+      "idiom": "cock a snook",
+      "variety": "british",
+      "count": 4659,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581co",
+        "ck",
+        "\u2581a",
+        "\u2581s",
+        "no",
+        "ok"
+      ]
+    },
+    {
+      "idiom": "donkey's years",
+      "variety": "british",
+      "count": 4445,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581don",
+        "key",
+        "'",
+        "s",
+        "\u2581years"
+      ]
+    },
+    {
+      "idiom": "throw under the bus",
+      "variety": "american",
+      "count": 4439,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581throw",
+        "\u2581under",
+        "\u2581the",
+        "\u2581bus"
+      ]
+    },
+    {
+      "idiom": "take the biscuit",
+      "variety": "british",
+      "count": 3905,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581take",
+        "\u2581the",
+        "\u2581bis",
+        "c",
+        "uit"
+      ]
+    },
+    {
+      "idiom": "bang out of order",
+      "variety": "british",
+      "count": 3866,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581b",
+        "ang",
+        "\u2581out",
+        "\u2581of",
+        "\u2581order"
+      ]
+    },
+    {
+      "idiom": "mad as a box of frogs",
+      "variety": "british",
+      "count": 3737,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581mad",
+        "\u2581as",
+        "\u2581a",
+        "\u2581box",
+        "\u2581of",
+        "\u2581fro",
+        "gs"
+      ]
+    },
+    {
+      "idiom": "gone pear-shaped",
+      "variety": "british",
+      "count": 3274,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581gone",
+        "\u2581p",
+        "ear",
+        "-",
+        "sh",
+        "aped"
+      ]
+    },
+    {
+      "idiom": "your John Hancock",
+      "variety": "american",
+      "count": 2808,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581your",
+        "\u2581John",
+        "\u2581Han",
+        "cock"
+      ]
+    },
+    {
+      "idiom": "plain as a pikestaff",
+      "variety": "british",
+      "count": 2668,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581plain",
+        "\u2581as",
+        "\u2581a",
+        "\u2581p",
+        "ik",
+        "est",
+        "aff"
+      ]
+    },
+    {
+      "idiom": "a load of codswallop",
+      "variety": "british",
+      "count": 2661,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581a",
+        "\u2581load",
+        "\u2581of",
+        "\u2581cod",
+        "sw",
+        "al",
+        "lop"
+      ]
+    },
+    {
+      "idiom": "a dog's dinner",
+      "variety": "british",
+      "count": 2538,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581a",
+        "\u2581dog",
+        "'",
+        "s",
+        "\u2581dinner"
+      ]
+    },
+    {
+      "idiom": "all mouth and no trousers",
+      "variety": "british",
+      "count": 1945,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581all",
+        "\u2581mouth",
+        "\u2581and",
+        "\u2581no",
+        "\u2581tr",
+        "ous",
+        "ers"
+      ]
+    },
+    {
+      "idiom": "a curate's egg",
+      "variety": "british",
+      "count": 1914,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581a",
+        "\u2581cur",
+        "ate",
+        "'",
+        "s",
+        "\u2581egg"
+      ]
+    },
+    {
+      "idiom": "see a man about a dog",
+      "variety": "british",
+      "count": 1576,
+      "n_tokens": 6,
+      "tokens": [
+        "\u2581see",
+        "\u2581a",
+        "\u2581man",
+        "\u2581about",
+        "\u2581a",
+        "\u2581dog"
+      ]
+    },
+    {
+      "idiom": "a turn-up for the books",
+      "variety": "british",
+      "count": 1556,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581a",
+        "\u2581turn",
+        "-",
+        "up",
+        "\u2581for",
+        "\u2581the",
+        "\u2581books"
+      ]
+    },
+    {
+      "idiom": "throw a wobbly",
+      "variety": "british",
+      "count": 1151,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581throw",
+        "\u2581a",
+        "\u2581wob",
+        "b",
+        "ly"
+      ]
+    },
+    {
+      "idiom": "sod's law",
+      "variety": "british",
+      "count": 1074,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581sod",
+        "'",
+        "s",
+        "\u2581law"
+      ]
+    },
+    {
+      "idiom": "the dog's bollocks",
+      "variety": "british",
+      "count": 947,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581the",
+        "\u2581dog",
+        "'",
+        "s",
+        "\u2581bol",
+        "lock",
+        "s"
+      ]
+    },
+    {
+      "idiom": "know your onions",
+      "variety": "british",
+      "count": 922,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581know",
+        "\u2581your",
+        "\u2581on",
+        "ions"
+      ]
+    },
+    {
+      "idiom": "off your trolley",
+      "variety": "british",
+      "count": 634,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581off",
+        "\u2581your",
+        "\u2581t",
+        "rol",
+        "ley"
+      ]
+    },
+    {
+      "idiom": "a nosy parker",
+      "variety": "british",
+      "count": 555,
+      "n_tokens": 5,
+      "tokens": [
+        "\u2581a",
+        "\u2581nos",
+        "y",
+        "\u2581par",
+        "ker"
+      ]
+    },
+    {
+      "idiom": "pop your clogs",
+      "variety": "british",
+      "count": 525,
+      "n_tokens": 4,
+      "tokens": [
+        "\u2581pop",
+        "\u2581your",
+        "\u2581c",
+        "logs"
+      ]
+    },
+    {
+      "idiom": "a right pig's ear",
+      "variety": "british",
+      "count": 217,
+      "n_tokens": 7,
+      "tokens": [
+        "\u2581a",
+        "\u2581right",
+        "\u2581p",
+        "ig",
+        "'",
+        "s",
+        "\u2581ear"
+      ]
+    }
+  ]
+}
