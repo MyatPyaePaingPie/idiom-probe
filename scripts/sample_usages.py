@@ -24,7 +24,11 @@ HEADERS = {
 }
 WINDOW = 110  # chars either side of the needle
 MAXNUM = 10  # hard API cap per call
-ROUNDS = 1  # each call returns a fresh random sample; raise for deeper stage-2 sampling
+# Each call returns a fresh random sample of up to MAXNUM docs. The committed
+# data/usages.json was built with 2 rounds (up to 20 snippets per idiom). NOTE:
+# hand classification (data/classifications.json) used only the first ~10-snippet
+# pass; the second round's snippets are unclassified. See RESULTS.md step 3.
+ROUNDS = 2
 
 
 def search_docs(query: str, n: int, retries: int = 3) -> dict:
