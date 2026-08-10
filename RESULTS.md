@@ -36,8 +36,14 @@ over the moon, on your bike).
 
 ## Step 3: measuring the confound
 
-Pulled 885 attested usages (up to 20 per idiom) from RedPajama via infini-gram
-`search_docs`, centered on the needle. Hand-classified every one as literal or idiomatic.
+Sampled attested usages from RedPajama via infini-gram `search_docs`, centered on the
+needle. Sampling ran in two passes: classification used the FIRST pass only (6-10
+snippets per idiom, 540 judged in total); a later, deeper pass brought
+`data/usages.json` to 885 snippets for future probe construction. Those extra 345
+snippets are unclassified. Classification was done by Claude in-context (see
+limitations), and only per-idiom tallies were retained in
+`data/classifications.json`; per-snippet verdicts were not saved, so individual
+judgments cannot be audited after the fact.
 
 **Result: the prediction was wrong.**
 
@@ -65,10 +71,13 @@ not get a systematically biased British/American comparison.
 
 ## Step 4: the matched set
 
-Dropped the 4 dead items. Matched on `adjusted = raw_count x idiomatic_rate`.
+Dropped the 4 dead items. Matched on `adjusted = raw_count x idiomatic_rate`
+(greedy nearest-neighbour within 1.5x; algorithm in `scripts/match_pairs.py`).
 
-**21 matched pairs within 1.5x, mean within-pair ratio 0.87.** Full set in
-`data/pairs.json`. The headline item survives matching:
+**21 matched pairs within 1.5x.** Mean British/American adjusted-frequency ratio
+0.87 (directional, so over- and under-shoots partially cancel; the symmetric mean,
+smaller over larger, is 0.82). Full set in `data/pairs.json`. The headline item
+survives matching:
 
 ```
 Bob's your uncle          4,870   <->   the ball is in your court     7,283
@@ -96,8 +105,9 @@ American ones.
 
 - [x] Candidate set, 80 idioms
 - [x] Raw frequencies (infini-gram, verified live)
-- [x] 885 usages sampled and hand-classified
-- [x] Adjusted frequencies + 21 matched pairs
+- [x] 885 usages sampled; 540 of them (first pass, 6-10 per idiom) classified
+- [x] Adjusted frequencies + 21 matched pairs (`scripts/compute_adjusted.py`,
+      `scripts/match_pairs.py`, both verified to reproduce the committed data)
 - [ ] Write the probe items over the matched pairs
 - [ ] Run against models
 - [ ] Analysis
@@ -106,9 +116,16 @@ American ones.
 
 - Regional labels are my own judgment, not a dictionary source. `full of beans` and
   `take the biscuit` have US currency too. Labels need an external authority.
-- Classification is mine alone: single rater, no second opinion, no inter-rater
-  agreement. Rates near 0 or 1 are robust to this; mid-range ones (0.17, 0.30, 0.67)
-  are not.
+- The classifier was Claude (an LLM), single rater, no second opinion, no inter-rater
+  agreement. That is a circularity risk, not just a sample-size issue: an LLM's
+  judgment of idiomaticity is labelling data for a probe of LLM idiom competence, so
+  classifier weakness on exactly the rare British items could leak into the labels.
+  Rates near 0 or 1 are robust to this; mid-range ones (0.17, 0.30, 0.67) are not.
+- Counts are exact-string. infini-gram matches the exact tokenized form, so inflected
+  and case variants go uncounted ("drop the ball" does not count "dropped the ball";
+  "Bob's your uncle" does not count "bob's your uncle"). Idioms differ in how often
+  they appear inflected, so the bias is per item, not uniform, and it is unmeasured.
+  Same family as the substring artifact above.
 - 6-10 samples per idiom gives a rate estimate with wide error bars in the middle of the
   range. Fine for screening dead items, weak for fine-grained adjustment.
 - RedPajama is LLaMA's corpus. Conclusions transfer to LLaMA-family models most

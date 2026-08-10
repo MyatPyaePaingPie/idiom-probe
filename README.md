@@ -4,7 +4,9 @@
 appropriate places, what predicts when they fail, and what is actually happening inside
 the model when they succeed?
 
-**Status:** Phase 1 (literature) complete, 2026-08-09. Phase 2 (probe design) pending decisions.
+**Status:** Phase 1 (literature) complete, 2026-08-09. Phase 2 groundwork complete
+(frequency-matched item set, 21 British/American pairs; see `RESULTS.md`). Probe
+items and model runs pending.
 
 ---
 
@@ -96,6 +98,21 @@ whether corpus composition, not just raw count, drives the gap).
 **Tertiary:** base models produce more varied figurative language than instruct siblings.
 
 ---
+
+## Data pipeline
+
+Every file in `data/` has generating code, except the hand-classification step:
+
+1. `scripts/count_idioms.py` -> `data/frequencies.json` (raw corpus counts, 80 idioms)
+2. `scripts/sample_usages.py` -> `data/usages.json` (885 usage snippets)
+3. Hand classification by Claude, in-context -> `data/classifications.json`
+   (tallies only, first 6-10 snippets per idiom; no script, judgments not retained)
+4. `scripts/compute_adjusted.py` -> `data/adjusted.json` (raw x idiomatic rate)
+5. `scripts/match_pairs.py` -> `data/pairs.json` (21 matched pairs, greedy within 1.5x)
+
+Steps 4 and 5 were reconstructed after the fact and are verified to reproduce the
+committed files byte-for-byte. Snippets in `data/usages.json` are short excerpts of
+RedPajama (Common Crawl and friends), scanned for PII before publishing.
 
 ## Constraints
 
